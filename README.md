@@ -1,2 +1,3 @@
-# exercicios-de-logica
-Este repositório contém exercícios de lógica de programação
+# Exercícios de lógica de programação
+## Linguagens usadas
+* Javascript
