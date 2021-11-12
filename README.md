@@ -1,5 +1,5 @@
 # Exercícios de lógica de programação
-## Linguagens usadas
+## Linguagens utilizadas:
 * Javascript
 ## Orientações
 * Clone o repositório usando o comando:
