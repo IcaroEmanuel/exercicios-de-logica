@@ -1,3 +1,3 @@
 # Exercícios de lógica de programação
-## Linguagens usadas
+## Linguagem utilizada:
 * Javascript
