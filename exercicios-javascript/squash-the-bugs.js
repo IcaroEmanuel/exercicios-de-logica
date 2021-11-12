@@ -6,14 +6,13 @@ A saída deve ter o comprimento da palavra mais longa, como um número.
 
 function findLongest(str) {
   
-  var spl = str.split(" ");
-  var longest = 0
+  let arrayOfWords = str.split(" ");
+  let longest = 0;
   
-  for (var i = 0; i < spl.length; i += 1) {
-    if (spl[i].length > longest) {
-      longest = spl[i].length
-  }
+  for (let index = 0; index < arrayOfWords.length; index += 1) {
+    if (arrayOfWords[index].length > longest) {
+      longest = arrayOfWords[index].length;
     }
-    return longest
+  }
+    return longest;
 }
-
